@@ -2,7 +2,7 @@
 
 /**
  * main - a program that prints its name, followed by a new line.
- * @agrc: argument count
+ * @argc: argument count
  * @argv: argyment vector
  * Return: 0
  */
